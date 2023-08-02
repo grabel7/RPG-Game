@@ -1,0 +1,15 @@
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\bin\Debug\net7.0\rpg.exe
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\bin\Debug\net7.0\rpg.deps.json
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\bin\Debug\net7.0\rpg.runtimeconfig.json
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\bin\Debug\net7.0\rpg.dll
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\bin\Debug\net7.0\rpg.pdb
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\obj\Debug\net7.0\rpg.csproj.AssemblyReference.cache
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\obj\Debug\net7.0\rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\obj\Debug\net7.0\rpg.AssemblyInfoInputs.cache
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\obj\Debug\net7.0\rpg.AssemblyInfo.cs
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\obj\Debug\net7.0\rpg.csproj.CoreCompileInputs.cache
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\obj\Debug\net7.0\rpg.dll
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\obj\Debug\net7.0\refint\rpg.dll
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\obj\Debug\net7.0\rpg.pdb
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\obj\Debug\net7.0\rpg.genruntimeconfig.cache
+C:\Users\Hippler\Desktop\Estudos\C#\rpg\rpg\obj\Debug\net7.0\ref\rpg.dll
